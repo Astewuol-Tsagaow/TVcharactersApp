@@ -19,5 +19,4 @@ An Android app that displays a list of TV show characters using `RecyclerView`. 
 
 ## 🛠 Installation
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourGitHubUsername/TVCharactersApp.git
+ 
